@@ -1,0 +1,19 @@
+Time = 0.08
+x[ 1 ]  10.0
+x[ 2 ]  20.0
+x[ 3 ]  10.0
+x[ 5 ]  11.0
+x[ 19 ]  15.0
+Total number of Stock used (Obj Value) = 66.0
+Total length required by items demand:  52350
+Minimum number of stock (continuous lower bound): 62.0
+Total length of stocks is:  56100.0
+Total Length used for cut items is:  52680.0
+Total waste is:  3420.0
+---> Number of Items  1  cut is  51.0  out of a demand  50
+---> Number of Items  2  cut is  30.0  out of a demand  30
+---> Number of Items  3  cut is  40.0  out of a demand  40
+---> Number of Items  4  cut is  42.0  out of a demand  42
+---> Number of Items  5  cut is  20.0  out of a demand  20
+Solver Status is = ok
+Termination Condition is = optimal
